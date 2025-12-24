@@ -48,6 +48,7 @@
     <td align="center"><b>1:0</b><br/>Demolished</td>
   </tr>
 </table>
+
 ---
 
 ## ✨ Highlights
