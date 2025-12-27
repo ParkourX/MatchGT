@@ -2,7 +2,7 @@
 <h1 align="center">🏢 MatchGT</h1>
 
 <p align="center">
-  <strong>A Unified Framework for Multi-Relation Building Footprint Matching</strong>
+  <strong>A Candidate-Pair Competition Graph Framework for Multi-Source Building Footprint Data Association</strong>
 </p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Paper-Under%20Review-orange?style=flat-square" alt="Paper Status"/></a>  <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>  <a href="#"><img src="https://img.shields.io/badge/PyTorch-1.10+-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/></a>  <a href="#"><img src="https://img.shields.io/badge/Code-Coming%20Soon-lightgrey?style=flat-square" alt="Code Status"/></a>
@@ -44,7 +44,7 @@
     <td align="center"><b>1:n</b><br/>One-to-Many</td>
     <td align="center"><b>m:1</b><br/>Many-to-One</td>
     <td align="center"><b>m:n</b><br/>Many-to-Many</td>
-    <td align="center"><b>0:1</b><br/>New Building</td>
+    <td align="center"><b>0:1</b><br/>New</td>
     <td align="center"><b>1:0</b><br/>Demolished</td>
   </tr>
 </table>
