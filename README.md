@@ -1,4 +1,3 @@
-
 <h1 align="center">🏢 MatchGT</h1>
 
 <p align="center">
@@ -24,8 +23,9 @@
 
 | Date | Update |
 |:----:|:-------|
-| 🔜 | Full source code will be released upon paper acceptance |
-| 2025.12 | Paper submitted |
+| 🔜 | **Full source code will be released immediately upon paper acceptance.** |
+| 2025.12 | The **Cologne benchmark dataset** is now available on [Figshare](https://doi.org/10.6084/m9.figshare.30962066). |
+| 2025.12 | Paper submitted. |
 
 ---
 
@@ -63,7 +63,14 @@
 
 ## 📊 Datasets
 
-MatchGT is evaluated on **six real-world building datasets** spanning Asia, Europe, and Africa:
+MatchGT is evaluated on **six real-world building datasets** spanning Asia, Europe, and Africa.
+
+### 📥 Benchmark Download
+> The **Cologne building footprint matching benchmark** (processed and ready-to-use) used in this study is publicly available on **Figshare**:
+> 
+> 🔗 **[Download Cologne Benchmark](https://doi.org/10.6084/m9.figshare.30962066)**
+
+### Dataset Details
 
 | Dataset | Location | Source A | Source B | #Buildings (A/B) | Characteristics |
 |:-------:|:--------:|:--------:|:--------:|:----------------:|:----------------|
